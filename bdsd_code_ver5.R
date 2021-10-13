@@ -366,6 +366,6 @@ mean(mvpa.avg$mvpa_min[which(mvpa.avg$male==0)])
 mean(mvpa.sum$mvpa_min[which(mvpa.sum$male==1)])
 mean(mvpa.sum$mvpa_min[which(mvpa.sum$male==0)])
 
-
+# New comment #
 
 
